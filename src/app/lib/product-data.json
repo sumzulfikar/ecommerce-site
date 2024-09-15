@@ -1,0 +1,20 @@
+[
+    {
+        "key": "123",
+        "title": "cake",
+        "priceOriginal": 20,
+        "discount": true,
+        "discountPercentage": 1,
+        "description": "spongy cake",
+        "image": ""
+    },
+    {
+        "key": "124",
+        "title": " chocolate cake",
+        "priceOriginal": 22,
+        "discount": false,
+        "discountPercentage": 1,
+        "description": "dark chocolate cake",
+        "image": ""
+    }
+]
